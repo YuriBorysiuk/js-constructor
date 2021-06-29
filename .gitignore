@@ -1,0 +1,11 @@
+*.cache
+
+#Firebase
+*.firebase
+*.firebaserc
+
+# VSCode
+*.vscode
+
+# Dependency directories
+node_modules/
